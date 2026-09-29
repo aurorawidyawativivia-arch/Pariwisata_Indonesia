@@ -3,7 +3,6 @@
     <title>Menu Wisata</title>
 </head>
 <body>
-
     <div align="center">
         <img src="Kawah Ijen.jpg" width="100%" height="200" alt="Banner Kawah Ijen">
         <br><br>
